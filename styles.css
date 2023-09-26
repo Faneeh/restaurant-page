@@ -16,10 +16,14 @@ body {
     justify-content: space-between;
     gap: 50px;
     margin-right: 2%;
+    font-size: 20px;
 }
 
 .header-logo {
     margin-left: 30%;
+    font-size: 50px;
+
+
 }
 
 .about {
