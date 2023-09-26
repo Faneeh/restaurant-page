@@ -14,7 +14,12 @@ body {
 .header-buttons {
     display: flex;
     justify-content: space-between;
-    gap: 20px;
+    gap: 50px;
+    margin-right: 2%;
+}
+
+.header-logo {
+    margin-left: 30%;
 }
 
 .about {
