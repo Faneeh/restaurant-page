@@ -75,6 +75,9 @@ body {
 
 .drink, .pizza, .dessert {
     font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 33vw;
 }
 
 .food-section {
