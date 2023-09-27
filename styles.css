@@ -16,6 +16,7 @@ body {
     justify-content: space-between;
     gap: 100px;
     margin-right: 2%;
+    margin-top: auto;
     font-size: 40px;
     margin: auto 2%;
 }
@@ -29,6 +30,10 @@ body {
 .header-logo {
     margin-left: 20%;
     font-size: 50px;
+    background-color: #ab7f05;
+    padding: 0 5px;
+    border-radius: 5%;
+    margin-top: auto;
 }
 
 .menu-text {
