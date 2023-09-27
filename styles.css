@@ -3,6 +3,7 @@ body {
     color: #cfcdca;
     height: 100vh;
     width:100%;
+    /* background-color: black; */
 }
 
 .header-section {
@@ -52,18 +53,14 @@ body {
     background-color: #ab7f05;
 }
 
-.menu-subtext {
-    border: 1px solid black;
-}
+.menu-subtext {border: 1px solid black;}
 
-#subtext-one {
-    padding-left: 50px;
-}
+#subtext-one {padding-left: 50px;}
 
-#subtext-two {
-    padding-left: 50px
-}
+#subtext-two {padding-left: 50px}
 
-#subtext-three {
-    padding-right: 50px;
+#subtext-three {padding-right: 50px;}
+
+.drinks-section {
+    background-color: #ab7f05;
 }
