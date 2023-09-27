@@ -7,7 +7,6 @@ body {
 .header-section {
     display: flex;
     width:100%;
-    background-color: grey;
     justify-content: space-between;
     margin-bottom: 10%;
 }
@@ -21,11 +20,15 @@ body {
     margin: auto 2%;
 }
 
+.header-buttons div {
+    background-color: #ab7f05;
+    padding: 0 5px;
+    border-radius: 5%;
+}
+
 .header-logo {
     margin-left: 20%;
     font-size: 50px;
-
-
 }
 
 .menu-text {
