@@ -53,3 +53,15 @@ body {
 .menu-subtext {
     border: 1px solid black;
 }
+
+#subtext-one {
+    padding-left: 50px;
+}
+
+#subtext-two {
+    padding-left: 50px
+}
+
+#subtext-three {
+    padding-right: 50px;
+}
