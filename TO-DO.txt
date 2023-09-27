@@ -1,0 +1,1 @@
+Allign menu-subtext divs and finish menu section
