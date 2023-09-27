@@ -61,6 +61,10 @@ body {
 
 #subtext-three {padding-right: 50px;}
 
-.drinks-section {
+.drinks-section, .pizza-section, .desserts-section {
     background-color: #ab7f05;
+}
+
+.drink, .pizza, .dessert {
+    font-size: 30px;
 }
