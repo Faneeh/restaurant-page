@@ -66,11 +66,23 @@ body {
     width: 30%;
 }
 
-.drinks-section {margin-left: 7%; margin-top: 1%;}
+.drinks-section {
+    margin-left: 7%; 
+    margin-top: 1%;
+    border-left: 5px solid black;
+}
 
-.pizza-section {margin-top: 1%;}
+.pizza-section {
+    margin-top: 1%;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
 
-.desserts-section {margin-right: 1%; margin-top: 1%;}
+.desserts-section {
+    margin-right: 1%;
+    margin-top: 1%;
+    border-right: 5px solid black;
+}
 
 .drink, .pizza, .dessert {
     font-size: 30px;
