@@ -3,7 +3,7 @@ body {
     color: #cfcdca;
     height: 100vh;
     width:100%;
-    background-color: black;
+    /* background-color: black; */
 }
 
 .header-section {
@@ -55,11 +55,20 @@ body {
 
 .menu-subtext {border: 1px solid black;}
 
-#subtext-one {margin-left: 20%; margin-top: 0.2%;}
+#subtext-one {
+    margin-left: 20%;
+    margin-top: 0.2%;
+}
 
-#subtext-two { margin-left: -8.5%; margin-top: 0.2%;}
+#subtext-two { 
+    margin-left: -8.5%;
+    margin-top: 0.2%;
+}
 
-#subtext-three {margin-right: 10%; margin-top: 0.2%;}
+#subtext-three {
+    margin-right: 10%; 
+    margin-top: 0.2%;
+}
 
 .drinks-section, .pizza-section, .desserts-section {
     background-color: #ab7f05;
