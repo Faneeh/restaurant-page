@@ -25,7 +25,7 @@ body {
 }
 
 .header-buttons div {
-    background-color: #ab7f05;
+    background-color: #8a5501;
     padding: 0 5px;
     border-radius: 5%;
 }
@@ -33,7 +33,7 @@ body {
 .header-logo {
     margin-left: 20%;
     font-size: 50px;
-    background-color: #ab7f05;
+    background-color: #8a5501;
     padding: 0 5px;
     border-radius: 5%;
     margin-top: auto;
@@ -41,7 +41,7 @@ body {
 
 .menu-text {
     text-align: center;
-    background-color: #ab7f05;
+    background-color: #8a5501;
     font-size: 40px;
     border-bottom: 5px solid black;
 }
@@ -50,7 +50,7 @@ body {
     display: flex;
     justify-content: space-between;
     font-size: 40px;
-    background-color: #ab7f05;
+    background-color: #8a5501;
 }
 
 .menu-subtext {border: 1px solid black;}
@@ -71,7 +71,7 @@ body {
 }
 
 .drinks-section, .pizza-section, .desserts-section {
-    background-color: #ab7f05;
+    background-color: #8a5501;
     width: 30%;
 }
 
@@ -103,6 +103,6 @@ body {
 .food-section {
     display: flex;
     justify-content: space-between;
-    background-color: #ab7f05;
+    background-color: #8a5501;
     height: 33vh;
 }
