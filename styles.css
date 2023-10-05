@@ -25,11 +25,17 @@ body {
 }
 
 .header-buttons div {
-    background-color: #8a5501;
     padding: 0 5px;
     border-radius: 5%;
 }
 
+.about:hover {
+    background-color: #8a5501;
+}
+
+.contact:hover {
+    background-color: #8a5501;
+}
 .header-logo {
     margin-left: 20%;
     font-size: 50px;
